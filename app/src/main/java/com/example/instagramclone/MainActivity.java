@@ -39,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
     private Button btnSubmit;
     private File photoFile;
     private String photoFileName = "photo.jpg";
+    //private Button btnLogout;
 
     @Override
     protected void onCreate(Bundle savedInstanceState ) {
@@ -162,4 +163,17 @@ public class MainActivity extends AppCompatActivity {
                 }
             });
         }
+/*
+    btnLogout findViewById(R.id.btnLogin);
+        btnLogout.setOnClickListener(new View.OnClickListener() {
+        public void onClick(View view) {
+            goLoginActivity();
+        }
+    });
+        private void goLoginActivity(){
+            ParseUser.logOut();
+            ParseUser currentUser = ParseUser.getCurrentUser(); // this will now be null
+
+
+        }*/
     }
