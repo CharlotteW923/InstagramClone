@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Charl/Documents/CodePath/InstagramClone/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2203125" />
         <entry key="..\:/Charl/Documents/CodePath/InstagramClone/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
         <entry key="..\:/Charl/Documents/CodePath/InstagramClone/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Charl/Documents/CodePath/InstagramClone/app/src/main/res/layout/fragment_compose.xml" value="0.20416666666666666" />
+        <entry key="..\:/Charl/Documents/CodePath/InstagramClone/app/src/main/res/layout/fragment_posts.xml" value="0.19" />
+        <entry key="..\:/Charl/Documents/CodePath/InstagramClone/app/src/main/res/layout/item_post.xml" value="0.2" />
+        <entry key="..\:/Charl/Documents/CodePath/InstagramClone/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.21" />
         <entry key="..\:/Charl/Documents/CodePath/InstagramClone/app/src/main/res/xml/fileprovider.xml" value="0.14010416666666667" />
       </map>
     </option>
